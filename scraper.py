@@ -21,6 +21,7 @@ def run(playwright):
     password = '699622@Gr'  # input('Please input your Canvas password:')
     browser = playwright.chromium.launch(headless=False, channel='chrome')
     page = browser.new_page()
+
     page.goto("https://canvas.instructure.com/courses/4916427/")
     page.fill('input#pseudonym_session_unique_id.ic-Input.text', user_email)
     page.fill('input#pseudonym_session_password.ic-Input.text', password)
@@ -33,6 +34,7 @@ def run(playwright):
     page.goto("https://canvas.instructure.com/courses/4916427/grades")
     with page.expect_navigation():
         # page.click("//div/span[@class='ht_title']")
+
         page.wait_for_timeout(15000)
         titles = page.query_selector_all("//tbody")  # //div['agenda-event__time']
         print(titles)
@@ -44,6 +46,7 @@ def run(playwright):
                 f.write(i.text_content() + "\n")
 
     page.wait_for_timeout(10000)
+
     page.close()
     browser.close()
 
