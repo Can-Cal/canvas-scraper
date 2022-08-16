@@ -45,18 +45,6 @@ def main():
             print('Event created: %s' % (event.get('htmlLink')))
         e.close()
 
-        # event = {
-        #     'summary': "Lab: 224 - Data Visualization",
-        #     'start': {
-        #         'dateTime': '2022-08-24T09:00:00-07:00',
-        #         'timeZone': 'America/Los_Angeles',
-        #     },
-        #     'end': {
-        #         'dateTime': "2022-08-24T17:00:00-07:00",
-        #         'timeZone': 'America/Los_Angeles'
-        #     },
-        # }
-
         #######
         ### Show the next 5 or 10 assignments
         #######
