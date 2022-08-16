@@ -1,13 +1,5 @@
 from playwright.sync_api import sync_playwright
 
-
-# with sync_playwright() as p:
-#     browser = p.webkit.launch()
-#     page = browser.new_page()
-#     page.goto("https://www.google.co.jp")
-#     page.screenshot(path="pyout.png")
-#     browser.close()
-
 def run(playwright):
     browser = playwright.chromium.launch(headless=False, channel='chrome')
     # context = browser.new_context()
@@ -22,8 +14,7 @@ def run(playwright):
 
     page.goto("https://canvas.instructure.com/calendar#view_name=agenda&view_start=2022-07-18")
     with page.expect_navigation():
-        # page.click("//div/span[@class='ht_title']")
-        titles = page.query_selector_all("//div['agenda-event__time']")
+        titles = page.query_selector_all("//div[@class='agenda-event__time']")
         # print(titles)
         for i in titles:
             # print(i.text_content())

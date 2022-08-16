@@ -11,3 +11,8 @@ a more personalized/assessable experience
 ## UML DOM
 
 ![](./DOM.png)
+
+## Python QuickStart on Google Calendar API
+Go to [Calendar API](https://developers.google.com/calendar/api/quickstart/python?hl=en_US) 
+for more details.
+
