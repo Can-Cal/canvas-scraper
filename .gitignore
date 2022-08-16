@@ -163,3 +163,8 @@ cython_debug/
 
 events.json
 credentials.json
+test_file.ics
+woopty.ics
+token.json
+events.json
+output.txt
