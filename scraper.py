@@ -13,11 +13,11 @@ def run(playwright):
     # context = browser.new_context()
 
     page = browser.new_page()
-    page.goto("https://medium.com/")
+    page.goto("https://canvas.instructure.com/courses/4916427/assignments")
 
     with page.expect_navigation():
         # page.click("//div/span[@class='ht_title']")
-        titles = page.query_selector_all("h2")
+        titles = page.query_selector_all("//div/a['@class=ig-title']")
         for i in titles:
             print(i.text_content())
         page.wait_for_timeout(1000)
