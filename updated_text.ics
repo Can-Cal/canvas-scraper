@@ -1,0 +1,3151 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Yu-Wei Hsieh Calendar (Canvas)
+X-WR-CALDESC:Calendar events for the user\, Yu-Wei Hsieh
+BEGIN:VEVENT
+DTSTAMP:20220718T233000Z
+UID:event-assignment-30709780
+DTSTART;VALUE=DATE;VALUE=DATE:20220717
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Prep: Career Coaching Status Report [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709780
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ common_curriculum/career_coaching/401/prework/status-report" width="1600px
+ " height="550px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220718T233000Z
+UID:event-assignment-30709781
+DTSTART;VALUE=DATE;VALUE=DATE:20220717
+CLASS:PUBLIC
+DESCRIPTION:---------------------------------------------------------------
+ --------------------------------------------------------------------------
+ ------------\nTake the [Professionalism Self-Assessment] (https://docs.goo
+ gle.com/forms/d/e/1FAIpQLSenWXMwGGjzgDsXwCi3hw0eJ4oLNPMbdJIP1OGdULMrpYQn9w
+ /viewform) now!\n---------------------------------------------------------
+ --------------------------------------------------------------------------
+ ------------------
+SEQUENCE:0
+SUMMARY:Prep: Career: Professional Etiquette [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709781
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ common_curriculum/career_coaching/401/prework/professional-etiquette" widt
+ h="1600px" height="550px"></iframe></p>\n<h2>Take the <a href="https://doc
+ s.google.com/forms/d/e/1FAIpQLSenWXMwGGjzgDsXwCi3hw0eJ4oLNPMbdJIP1OGdULMrp
+ YQn9w/viewform" target="_blank">Professionalism Self-Assessment</a> now!</
+ h2>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220719T093500Z
+UID:event-assignment-30709782
+DTSTART;VALUE=DATE;VALUE=DATE:20220717
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Prep: Career: Update Your Resume [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709782
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ common_curriculum/career_coaching/401/prework/update-your-resume" width="1
+ 600px" height="550px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220718T232900Z
+UID:event-assignment-30709783
+DTSTART;VALUE=DATE;VALUE=DATE:20220717
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Prep: Create a Reading Notes Repo [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709783
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ common_curriculum/prework/setup-readings" width="100%" height="550px"></if
+ rame></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220718T232700Z
+UID:event-assignment-30709646
+DTSTART;VALUE=DATE;VALUE=DATE:20220717
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Prep: Deck Out Your Editor [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709646
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ code-401-python-guide/curriculum/prework/prework-editor" width="1600px" he
+ ight="550px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220718T232600Z
+UID:event-assignment-30709647
+DTSTART;VALUE=DATE;VALUE=DATE:20220717
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Prep: Get Started with Python\, Brush Up on Everything Else [seattl
+ e-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709647
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ code-401-python-guide/curriculum/prework/prework-python-html" width="1600p
+ x" height="550px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220724T204800Z
+UID:event-assignment-30709784
+DTSTART;VALUE=DATE;VALUE=DATE:20220717
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Prep: Introduction to SQL [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709784
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ common_curriculum/prework/SQL" width="1600px" height="550px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220718T232900Z
+UID:event-assignment-30709785
+DTSTART;VALUE=DATE;VALUE=DATE:20220717
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Prep: Practice in the Terminal [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709785
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ common_curriculum/prework/terminal" width="1600px" height="550px"></iframe
+ ></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220718T232800Z
+UID:event-assignment-30709786
+DTSTART;VALUE=DATE;VALUE=DATE:20220717
+CLASS:PUBLIC
+DESCRIPTION:Join the [class Slack Workspace] (https://codefellows.slack.com
+ /archives/C03N3UHMUM6) now!
+SEQUENCE:0
+SUMMARY:Prep: Setup your Accounts [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709786
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ common_curriculum/prework/setup-your-accounts" width="1600px" height="550p
+ x"></iframe><span style="font-size: 18pt\;">Join the <a href="https://code
+ fellows.slack.com/archives/C03N3UHMUM6" target="_blank">class Slack Worksp
+ ace</a> now!</span></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220722T122600Z
+UID:event-assignment-30709787
+DTSTART;VALUE=DATE;VALUE=DATE:20220717
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Prep: The Growth Mindset [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709787
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ common_curriculum/career_coaching/401/mindset" width="1600px" height="550p
+ x"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220720T180800Z
+UID:event-assignment-30709580
+DTSTART:20220718T160000Z
+DTEND:20220718T160000Z
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Read: Class 01 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709580
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ code-401-python-guide/curriculum/class-01/DISCUSSION" width="1600px" heigh
+ t="550px"></iframe></p><p><iframe src="https://codefellows.github.io/commo
+ n_curriculum/readings_and_reflections/discussion_submission" width="1600px
+ " height="500px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220805T011600Z
+UID:event-assignment-30709692
+DTSTART;VALUE=DATE;VALUE=DATE:20220718
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Code Challenge: Class 01 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709692
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ common_curriculum/data_structures_and_algorithms/Code_401/class-01/" width
+ ="1600px" height="550px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220804T224600Z
+UID:event-assignment-30709607
+DTSTART;VALUE=DATE;VALUE=DATE:20220718
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Lab: 01 - Intro to Python [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709607
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ code-401-python-guide/curriculum/class-01/lab/" width="1600px" height="550
+ px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220719T190600Z
+UID:event-assignment-30709738
+DTSTART;VALUE=DATE;VALUE=DATE:20220718
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Learning Journal: Class 01 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709738
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ common_curriculum/readings_and_reflections/journal-01" width="1600px" heig
+ ht="550px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220718T233200Z
+UID:event-assignment-30709649
+DTSTART;VALUE=DATE;VALUE=DATE:20220718
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Prep: Engineering Readings [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709649
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ common_curriculum/prework/engineering-readings" width="1600px" height="700
+ px"></iframe></p><p><iframe src="https://codefellows.github.io/common_curr
+ iculum/readings_and_reflections/discussion_submission" width="1600px" heig
+ ht="500px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220720T212000Z
+UID:event-assignment-30709578
+DTSTART:20220719T160000Z
+DTEND:20220719T160000Z
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Read: Class 02 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709578
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ code-401-python-guide/curriculum/class-02/DISCUSSION" width="1600px" heigh
+ t="550px"></iframe></p><p><iframe src="https://codefellows.github.io/commo
+ n_curriculum/readings_and_reflections/discussion_submission" width="1600px
+ " height="500px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220805T011600Z
+UID:event-assignment-30709693
+DTSTART;VALUE=DATE;VALUE=DATE:20220719
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Code Challenge: Class 02 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709693
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ common_curriculum/data_structures_and_algorithms/Code_401/class-02/" width
+ ="1600px" height="550px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220804T224600Z
+UID:event-assignment-30709608
+DTSTART;VALUE=DATE;VALUE=DATE:20220719
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Lab: 02 - Modules\, Containers\, and Testing [seattle-code-python-4
+ 01d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709608
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ code-401-python-guide/curriculum/class-02/lab/" width="1600px" height="550
+ px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220720T195300Z
+UID:event-assignment-30709739
+DTSTART;VALUE=DATE;VALUE=DATE:20220719
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Learning Journal: Class 02 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709739
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ common_curriculum/readings_and_reflections/journal-02" width="1600px" heig
+ ht="550px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220722T004100Z
+UID:event-assignment-30709577
+DTSTART:20220720T160000Z
+DTEND:20220720T160000Z
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Read: Class 03 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709577
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ code-401-python-guide/curriculum/class-03/DISCUSSION" width="1600px" heigh
+ t="550px"></iframe></p><p><iframe src="https://codefellows.github.io/commo
+ n_curriculum/readings_and_reflections/discussion_submission" width="1600px
+ " height="500px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220805T011600Z
+UID:event-assignment-30709694
+DTSTART;VALUE=DATE;VALUE=DATE:20220720
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Code Challenge: Class 03 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709694
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ common_curriculum/data_structures_and_algorithms/Code_401/class-03/" width
+ ="1600px" height="550px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220804T224600Z
+UID:event-assignment-30709609
+DTSTART;VALUE=DATE;VALUE=DATE:20220720
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Lab: 03 -  Errors\, Files\, and Packaging [seattle-code-python-401d
+ 19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709609
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ code-401-python-guide/curriculum/class-03/lab/" width="1600px" height="550
+ px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220721T155800Z
+UID:event-assignment-30709740
+DTSTART;VALUE=DATE;VALUE=DATE:20220720
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Learning Journal: Class 03 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709740
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ common_curriculum/readings_and_reflections/journal-03" width="1600px" heig
+ ht="550px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220722T005800Z
+UID:event-assignment-30709585
+DTSTART:20220721T160000Z
+DTEND:20220721T160000Z
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Read: Class 04 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709585
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ code-401-python-guide/curriculum/class-04/DISCUSSION" width="1600px" heigh
+ t="550px"></iframe></p><p><iframe src="https://codefellows.github.io/commo
+ n_curriculum/readings_and_reflections/discussion_submission" width="1600px
+ " height="500px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220722T185700Z
+UID:event-assignment-30709679
+DTSTART;VALUE=DATE;VALUE=DATE:20220721
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Career Coaching Workshop #1 Prep - Accountability Partners [seattle
+ -code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709679
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ common_curriculum/career_coaching/401/workshop-1/assignments/accountabilit
+ y-partners" width="1600px" height="550px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220722T190900Z
+UID:event-assignment-30709663
+DTSTART;VALUE=DATE;VALUE=DATE:20220721
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Career Coaching Workshop #1 Prep - Networking Gameplan [seattle-cod
+ e-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709663
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ common_curriculum/career_coaching/401/workshop-1/assignments/your-network"
+  width="1600px" height="550px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220722T223900Z
+UID:event-assignment-30709680
+DTSTART;VALUE=DATE;VALUE=DATE:20220721
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Career Coaching Workshop #1 Prep - Resume [seattle-code-python-401d
+ 19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709680
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ common_curriculum/career_coaching/401/workshop-1/assignments/resume-worksh
+ op-prep" width="1600px" height="550px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220801T203300Z
+UID:event-assignment-30709610
+DTSTART;VALUE=DATE;VALUE=DATE:20220721
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Lab: 04 -  Classes\, and Fixtures [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709610
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ code-401-python-guide/curriculum/class-04/lab/" width="1600px" height="550
+ px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220722T163100Z
+UID:event-assignment-30709741
+DTSTART;VALUE=DATE;VALUE=DATE:20220721
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Learning Journal: Class 04 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709741
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ common_curriculum/readings_and_reflections/journal-04" width="1600px" heig
+ ht="550px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220722T181600Z
+UID:event-assignment-30709656
+DTSTART:20220722T160000Z
+DTEND:20220722T160000Z
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Read: Linked Lists [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709656
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ common_curriculum/data_structures_and_algorithms/Code_401/class-05/DISCUSS
+ ION" width="1600px" height="550px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220724T192100Z
+UID:event-assignment-30709678
+DTSTART;VALUE=DATE;VALUE=DATE:20220722
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Career Coaching Workshop #1: Completed Resume [seattle-code-python-
+ 401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709678
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ common_curriculum/career_coaching/401/workshop-1/assignments/resume-worksh
+ op" width="1600px" height="550px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220724T190000Z
+UID:event-assignment-30709671
+DTSTART;VALUE=DATE;VALUE=DATE:20220722
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Career: Partner Power Hour - Report #1 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709671
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ common_curriculum/career_coaching/common/partner-power-hour-report" width=
+ "1600px" height="550px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220805T011600Z
+UID:event-assignment-30709696
+DTSTART;VALUE=DATE;VALUE=DATE:20220722
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Code Challenge: Class 05: Linked List Implementation [seattle-code-
+ python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709696
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ common_curriculum/data_structures_and_algorithms/Code_401/class-05/LAB" wi
+ dth="1600px" height="550px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220722T215900Z
+UID:event-assignment-30709629
+DTSTART;VALUE=DATE;VALUE=DATE:20220722
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Feedback: Week 1 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709629
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ common_curriculum/feedback/assignment" width="1600" height="400"></iframe>
+ </p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220726T062400Z
+UID:event-assignment-30709742
+DTSTART;VALUE=DATE;VALUE=DATE:20220722
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Learning Journal: Class 05 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709742
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ common_curriculum/readings_and_reflections/retrospective" width="1600px" h
+ eight="550px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220628T060800Z
+UID:event-calendar-event-2834567
+DTSTART;VALUE=DATE;VALUE=DATE:20220724
+CLASS:PUBLIC
+DESCRIPTION:
+LOCATION:
+SEQUENCE:0
+SUMMARY:Week 2 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+ &month=07&year=2022#calendar_event_2834567
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220716T070000Z
+UID:event-assignment-30709579
+DTSTART:20220725T160000Z
+DTEND:20220725T160000Z
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Read: Class 06 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709579
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ code-401-python-guide/curriculum/class-06/DISCUSSION" width="1600px" heigh
+ t="550px"></iframe></p><p><iframe src="https://codefellows.github.io/commo
+ n_curriculum/readings_and_reflections/discussion_submission" width="1600px
+ " height="500px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220805T011600Z
+UID:event-assignment-30709697
+DTSTART;VALUE=DATE;VALUE=DATE:20220725
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Code Challenge: Class 06 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709697
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ common_curriculum/data_structures_and_algorithms/Code_401/class-06/" width
+ ="1600px" height="550px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220804T224800Z
+UID:event-assignment-30709611
+DTSTART;VALUE=DATE;VALUE=DATE:20220725
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Lab: 06 -  Guided Project I [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709611
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ code-401-python-guide/curriculum/class-06/lab/" width="1600px" height="550
+ px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220725T065900Z
+UID:event-assignment-30709743
+DTSTART;VALUE=DATE;VALUE=DATE:20220725
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Learning Journal: Class 06 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709743
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ common_curriculum/readings_and_reflections/journal-05" width="1600px" heig
+ ht="550px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220731T003700Z
+UID:event-assignment-30709583
+DTSTART:20220726T160000Z
+DTEND:20220726T160000Z
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Read: Class 07 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709583
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ code-401-python-guide/curriculum/class-07/DISCUSSION" width="1600px" heigh
+ t="550px"></iframe></p><p><iframe src="https://codefellows.github.io/commo
+ n_curriculum/readings_and_reflections/discussion_submission" width="1600px
+ " height="500px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220805T011500Z
+UID:event-assignment-30709698
+DTSTART;VALUE=DATE;VALUE=DATE:20220726
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Code Challenge: Class 07 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709698
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ common_curriculum/data_structures_and_algorithms/Code_401/class-07/" width
+ ="1600px" height="550px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220804T225200Z
+UID:event-assignment-30709613
+DTSTART;VALUE=DATE;VALUE=DATE:20220726
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Lab: 07 - Guided Project II [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709613
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ code-401-python-guide/curriculum/class-07/lab/" width="1600px" height="550
+ px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220728T021500Z
+UID:event-assignment-30709744
+DTSTART;VALUE=DATE;VALUE=DATE:20220726
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Learning Journal: Class 07 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709744
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ common_curriculum/readings_and_reflections/journal-06" width="1600px" heig
+ ht="550px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220730T233100Z
+UID:event-assignment-30709581
+DTSTART:20220727T160000Z
+DTEND:20220727T160000Z
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Read: Class 08 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709581
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ code-401-python-guide/curriculum/class-08/DISCUSSION" width="1600px" heigh
+ t="550px"></iframe></p><p><iframe src="https://codefellows.github.io/commo
+ n_curriculum/readings_and_reflections/discussion_submission" width="1600px
+ " height="500px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220805T011500Z
+UID:event-assignment-30709699
+DTSTART;VALUE=DATE;VALUE=DATE:20220727
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Code Challenge: Class 08 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709699
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ common_curriculum/data_structures_and_algorithms/Code_401/class-08/" width
+ ="1600px" height="550px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220729T045800Z
+UID:event-assignment-30709745
+DTSTART;VALUE=DATE;VALUE=DATE:20220727
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Learning Journal: Class 08 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709745
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ common_curriculum/readings_and_reflections/journal-07" width="1600px" heig
+ ht="550px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220730T234700Z
+UID:event-assignment-30709681
+DTSTART;VALUE=DATE;VALUE=DATE:20220728
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Career Coaching Workshop #2 Prep - Personal Pitch [seattle-code-pyt
+ hon-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709681
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ common_curriculum/career_coaching/401/workshop-2/assignments/pitch-worksho
+ p-prep" width="1600px" height="550px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220730T235400Z
+UID:event-assignment-30709682
+DTSTART;VALUE=DATE;VALUE=DATE:20220728
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Career Coaching Workshop #2 Prep - Stage Fright [seattle-code-pytho
+ n-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709682
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ common_curriculum/career_coaching/common/stage-fright" width="1600px" heig
+ ht="550px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220731T001200Z
+UID:event-assignment-30709683
+DTSTART;VALUE=DATE;VALUE=DATE:20220728
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Career Coaching Workshop #2 Prep - Your Why [seattle-code-python-40
+ 1d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709683
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ common_curriculum/career_coaching/401/workshop-2/assignments/your-why" wid
+ th="1600px" height="550px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220805T011500Z
+UID:event-assignment-30709700
+DTSTART;VALUE=DATE;VALUE=DATE:20220728
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Code Challenge: Class 09 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709700
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ common_curriculum/data_structures_and_algorithms/Code_401/class-09/" width
+ ="1600px" height="550px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220730T032000Z
+UID:event-assignment-30709746
+DTSTART;VALUE=DATE;VALUE=DATE:20220728
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Learning Journal: Class 09 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709746
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ common_curriculum/readings_and_reflections/journal-08" width="1600px" heig
+ ht="550px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220804T225300Z
+UID:event-assignment-30709614
+DTSTART;VALUE=DATE;VALUE=DATE:20220728
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Lab: 08 - Guided Project III [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709614
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ code-401-python-guide/curriculum/class-08/lab/" width="1600px" height="550
+ px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220730T233600Z
+UID:event-assignment-30709655
+DTSTART:20220729T160000Z
+DTEND:20220729T160000Z
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Read: Stacks & Queues [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709655
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ common_curriculum/data_structures_and_algorithms/Code_401/class-10/DISCUSS
+ ION" width="1600px" height="550px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220731T001900Z
+UID:event-assignment-30709659
+DTSTART;VALUE=DATE;VALUE=DATE:20220729
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Career Coaching Workshop #2: Completed Personal Pitch [seattle-code
+ -python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709659
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ common_curriculum/career_coaching/401/workshop-2/assignments/pitch-worksho
+ p" width="1600px" height="550px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220731T002400Z
+UID:event-assignment-30709674
+DTSTART;VALUE=DATE;VALUE=DATE:20220729
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Career: Partner Power Hour - Report #2 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709674
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ common_curriculum/career_coaching/common/partner-power-hour-report" width=
+ "1600px" height="550px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220805T011500Z
+UID:event-assignment-30709701
+DTSTART;VALUE=DATE;VALUE=DATE:20220729
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Code Challenge: Class 10: Stack and a Queue Implementation [seattle
+ -code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709701
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ common_curriculum/data_structures_and_algorithms/Code_401/class-10/LAB" wi
+ dth="1600px" height="550px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220729T215900Z
+UID:event-assignment-30709620
+DTSTART;VALUE=DATE;VALUE=DATE:20220729
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Feedback: Week 2 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709620
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ common_curriculum/feedback/assignment" width="1600" height="400"></iframe>
+ </p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220801T034700Z
+UID:event-assignment-30709747
+DTSTART;VALUE=DATE;VALUE=DATE:20220729
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Learning Journal: Class 10 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709747
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ common_curriculum/readings_and_reflections/retrospective" width="1600px" h
+ eight="550px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220628T060800Z
+UID:event-calendar-event-2834566
+DTSTART;VALUE=DATE;VALUE=DATE:20220731
+CLASS:PUBLIC
+DESCRIPTION:
+LOCATION:
+SEQUENCE:0
+SUMMARY:Week 3 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+ &month=07&year=2022#calendar_event_2834566
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220802T212300Z
+UID:event-assignment-30709684
+DTSTART;VALUE=DATE;VALUE=DATE:20220731
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Career Coaching Workshop #3 Prep - Set a Networking Appointment [se
+ attle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709684
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ common_curriculum/career_coaching/401/final/assignments/networking-appoint
+ ments" width="1600px" height="550px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220802T212900Z
+UID:event-assignment-30709584
+DTSTART:20220801T160000Z
+DTEND:20220801T160000Z
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Read: Class 11 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709584
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ code-401-python-guide/curriculum/class-11/DISCUSSION" width="1600px" heigh
+ t="550px"></iframe></p><p><iframe src="https://codefellows.github.io/commo
+ n_curriculum/readings_and_reflections/discussion_submission" width="1600px
+ " height="500px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220805T054900Z
+UID:event-assignment-30709702
+DTSTART;VALUE=DATE;VALUE=DATE:20220801
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Code Challenge: Class 11 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709702
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ common_curriculum/data_structures_and_algorithms/Code_401/class-11/" width
+ ="1600px" height="550px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220811T020700Z
+UID:event-assignment-30709617
+DTSTART;VALUE=DATE;VALUE=DATE:20220801
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Lab: 11 - Numpy [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709617
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ code-401-python-guide/curriculum/class-11/lab/" width="1600px" height="550
+ px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220803T070100Z
+UID:event-assignment-30709748
+DTSTART;VALUE=DATE;VALUE=DATE:20220801
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Learning Journal: Class 11 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709748
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ common_curriculum/readings_and_reflections/journal-09" width="1600px" heig
+ ht="550px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220803T061900Z
+UID:event-assignment-30709592
+DTSTART:20220802T160000Z
+DTEND:20220802T160000Z
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Read: Class 12 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709592
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ code-401-python-guide/curriculum/class-12/DISCUSSION" width="1600px" heigh
+ t="550px"></iframe></p><p><iframe src="https://codefellows.github.io/commo
+ n_curriculum/readings_and_reflections/discussion_submission" width="1600px
+ " height="500px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220803T223400Z
+UID:event-assignment-30709703
+DTSTART;VALUE=DATE;VALUE=DATE:20220802
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Code Challenge: Class 12 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709703
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ common_curriculum/data_structures_and_algorithms/Code_401/class-12/" width
+ ="1600px" height="550px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220804T023400Z
+UID:event-assignment-30709618
+DTSTART;VALUE=DATE;VALUE=DATE:20220802
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Lab: 12 - Data Analysis with Pandas [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709618
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ code-401-python-guide/curriculum/class-12/lab/" width="1600px" height="550
+ px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220804T054000Z
+UID:event-assignment-30709749
+DTSTART;VALUE=DATE;VALUE=DATE:20220802
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Learning Journal: Class 12 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709749
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ common_curriculum/readings_and_reflections/journal-10" width="1600px" heig
+ ht="550px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220810T044000Z
+UID:event-assignment-30709586
+DTSTART:20220803T160000Z
+DTEND:20220803T160000Z
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Read: Class 13 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709586
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ code-401-python-guide/curriculum/class-13/DISCUSSION" width="1600px" heigh
+ t="550px"></iframe></p><p><iframe src="https://codefellows.github.io/commo
+ n_curriculum/readings_and_reflections/discussion_submission" width="1600px
+ " height="500px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220804T212800Z
+UID:event-assignment-30709704
+DTSTART;VALUE=DATE;VALUE=DATE:20220803
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Code Challenge: Class 13 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709704
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ common_curriculum/data_structures_and_algorithms/Code_401/class-13/" width
+ ="1600px" height="550px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220805T002000Z
+UID:event-assignment-30709619
+DTSTART;VALUE=DATE;VALUE=DATE:20220803
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Lab: 13 - Linear Regressions [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709619
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ code-401-python-guide/curriculum/class-13/lab/" width="1600px" height="550
+ px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220804T144900Z
+UID:event-assignment-30709750
+DTSTART;VALUE=DATE;VALUE=DATE:20220803
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Learning Journal: Class 13 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709750
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ common_curriculum/readings_and_reflections/journal-11" width="1600px" heig
+ ht="550px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220805T010000Z
+UID:event-assignment-30709593
+DTSTART:20220804T160000Z
+DTEND:20220804T160000Z
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Read: Class 14 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709593
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ code-401-python-guide/curriculum/class-14/DISCUSSION" width="1600px" heigh
+ t="550px"></iframe></p><p><iframe src="https://codefellows.github.io/commo
+ n_curriculum/readings_and_reflections/discussion_submission" width="1600px
+ " height="500px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220805T205900Z
+UID:event-assignment-30709664
+DTSTART;VALUE=DATE;VALUE=DATE:20220804
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Career Coaching Workshop #3 Prep - Professional and Personal Develo
+ pment [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709664
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ common_curriculum/career_coaching/401/workshop-3/assignments/podcast" widt
+ h="1600px" height="550px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220805T222000Z
+UID:event-assignment-30709685
+DTSTART;VALUE=DATE;VALUE=DATE:20220804
+CLASS:PUBLIC
+DESCRIPTION: \n\nSubmit your spreadsheet URL\, shared with "comment" perm
+ issions\, in the text field below.
+SEQUENCE:0
+SUMMARY:Career Coaching Workshop #3 Prep - Targeted Job Search [seattle-cod
+ e-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709685
+X-ALT-DESC;FMTTYPE=text/html:<p>&nbsp\;</p>\n<p><iframe src="https://codefe
+ llows.github.io/common_curriculum/career_coaching/401/workshop-3/assignmen
+ ts/targeted-job-search" width="1600px" height="550px"></iframe></p>\n<p>Su
+ bmit your&nbsp\;spreadsheet URL\, shared with "comment" permissions\, in t
+ he text field&nbsp\;below.</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220805T073600Z
+UID:event-assignment-30709705
+DTSTART;VALUE=DATE;VALUE=DATE:20220804
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Code Challenge: Class 14 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709705
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ common_curriculum/data_structures_and_algorithms/Code_401/class-14/" width
+ ="1600px" height="550px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220805T234200Z
+UID:event-assignment-30709621
+DTSTART;VALUE=DATE;VALUE=DATE:20220804
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Lab: 14 - Data Visualization [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709621
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ code-401-python-guide/curriculum/class-14/lab/" width="1600px" height="550
+ px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220808T155400Z
+UID:event-assignment-30709751
+DTSTART;VALUE=DATE;VALUE=DATE:20220804
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Learning Journal: Class 14 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709751
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ common_curriculum/readings_and_reflections/journal-12" width="1600px" heig
+ ht="550px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220806T005400Z
+UID:event-assignment-30709654
+DTSTART:20220805T160000Z
+DTEND:20220805T160000Z
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Read: Trees [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709654
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ common_curriculum/data_structures_and_algorithms/Code_401/class-15/DISCUSS
+ ION" width="1600px" height="550px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220808T212400Z
+UID:event-assignment-30709658
+DTSTART;VALUE=DATE;VALUE=DATE:20220805
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Career Coaching Workshop #3: Job Searches\, Networking\, and Negoti
+ ations [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709658
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ common_curriculum/career_coaching/401/workshop-3/assignments/job-search-wo
+ rkshop" width="1600px" height="550px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220808T214400Z
+UID:event-assignment-30709673
+DTSTART;VALUE=DATE;VALUE=DATE:20220805
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Career: Partner Power Hour - Report #3 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709673
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ common_curriculum/career_coaching/common/partner-power-hour-report" width=
+ "1600px" height="550px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220809T015100Z
+UID:event-assignment-30709706
+DTSTART;VALUE=DATE;VALUE=DATE:20220805
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Code Challenge: Class 15: Binary Tree and BST Implementation [seatt
+ le-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709706
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ common_curriculum/data_structures_and_algorithms/Code_401/class-15/LAB" wi
+ dth="1600px" height="550px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220805T215900Z
+UID:event-assignment-30709612
+DTSTART;VALUE=DATE;VALUE=DATE:20220805
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Feedback: Week 3 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709612
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ common_curriculum/feedback/assignment" width="1600" height="400"></iframe>
+ </p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220808T210200Z
+UID:event-assignment-30709752
+DTSTART;VALUE=DATE;VALUE=DATE:20220805
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Learning Journal: Class 15 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709752
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ common_curriculum/readings_and_reflections/retrospective" width="1600px" h
+ eight="550px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220628T060800Z
+UID:event-calendar-event-2834565
+DTSTART;VALUE=DATE;VALUE=DATE:20220807
+CLASS:PUBLIC
+DESCRIPTION:
+LOCATION:
+SEQUENCE:0
+SUMMARY:Week 4 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+ &month=08&year=2022#calendar_event_2834565
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220809T170700Z
+UID:event-assignment-30709594
+DTSTART:20220808T160000Z
+DTEND:20220808T160000Z
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Read: Class 16 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709594
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ code-401-python-guide/curriculum/class-16/DISCUSSION" width="1600px" heigh
+ t="550px"></iframe></p><p><iframe src="https://codefellows.github.io/commo
+ n_curriculum/readings_and_reflections/discussion_submission" width="1600px
+ " height="500px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220816T003500Z
+UID:event-assignment-30709707
+DTSTART;VALUE=DATE;VALUE=DATE:20220808
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Code Challenge: Class 16 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709707
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ common_curriculum/data_structures_and_algorithms/Code_401/class-17/" width
+ ="1600px" height="550px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220810T000400Z
+UID:event-assignment-30709622
+DTSTART;VALUE=DATE;VALUE=DATE:20220808
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Lab: 16 - Serverless Functions [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709622
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ code-401-python-guide/curriculum/class-16/lab/" width="1600px" height="550
+ px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220808T065900Z
+UID:event-assignment-30709753
+DTSTART;VALUE=DATE;VALUE=DATE:20220808
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Learning Journal: Class 16 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709753
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ common_curriculum/readings_and_reflections/journal-13" width="1600px" heig
+ ht="550px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220810T003600Z
+UID:event-assignment-30709595
+DTSTART:20220809T160000Z
+DTEND:20220809T160000Z
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Read: Class 17 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709595
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ code-401-python-guide/curriculum/class-17/DISCUSSION" width="1600px" heigh
+ t="550px"></iframe></p><p><iframe src="https://codefellows.github.io/commo
+ n_curriculum/readings_and_reflections/discussion_submission" width="1600px
+ " height="500px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220810T223500Z
+UID:event-assignment-30709708
+DTSTART;VALUE=DATE;VALUE=DATE:20220809
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Code Challenge: Class 17 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709708
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ common_curriculum/data_structures_and_algorithms/Code_401/class-16/" width
+ ="1600px" height="550px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220811T005200Z
+UID:event-assignment-30709623
+DTSTART;VALUE=DATE;VALUE=DATE:20220809
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Lab: 17 - Web Scraping [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709623
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ code-401-python-guide/curriculum/class-17/lab/" width="1600px" height="550
+ px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220811T044900Z
+UID:event-assignment-30709754
+DTSTART;VALUE=DATE;VALUE=DATE:20220809
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Learning Journal: Class 17 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709754
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ common_curriculum/readings_and_reflections/journal-14" width="1600px" heig
+ ht="550px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220811T013400Z
+UID:event-assignment-30709596
+DTSTART:20220810T160000Z
+DTEND:20220810T160000Z
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Read: Class 18 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709596
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ code-401-python-guide/curriculum/class-18/DISCUSSION" width="1600px" heigh
+ t="550px"></iframe></p><p><iframe src="https://codefellows.github.io/commo
+ n_curriculum/readings_and_reflections/discussion_submission" width="1600px
+ " height="500px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220811T222300Z
+UID:event-assignment-30709709
+DTSTART;VALUE=DATE;VALUE=DATE:20220810
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Code Challenge: Class 18 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709709
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ common_curriculum/data_structures_and_algorithms/Code_401/class-18/" width
+ ="1600px" height="550px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220812T013600Z
+UID:event-assignment-30709625
+DTSTART;VALUE=DATE;VALUE=DATE:20220810
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Lab: 18 - Cryptography [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709625
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ code-401-python-guide/curriculum/class-18/lab/" width="1600px" height="550
+ px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220811T205600Z
+UID:event-assignment-30709755
+DTSTART;VALUE=DATE;VALUE=DATE:20220810
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Learning Journal: Class 18 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709755
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ common_curriculum/readings_and_reflections/journal-07" width="1600px" heig
+ ht="550px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220716T070000Z
+UID:event-assignment-30709587
+DTSTART:20220811T160000Z
+DTEND:20220811T160000Z
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Read: Class 19 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709587
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ code-401-python-guide/curriculum/class-19/DISCUSSION" width="1600px" heigh
+ t="550px"></iframe></p><p><iframe src="https://codefellows.github.io/commo
+ n_curriculum/readings_and_reflections/discussion_submission" width="1600px
+ " height="500px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220812T223400Z
+UID:event-assignment-30709710
+DTSTART;VALUE=DATE;VALUE=DATE:20220811
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Code Challenge: Class 19 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709710
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ common_curriculum/data_structures_and_algorithms/Code_401/class-19/" width
+ ="1600px" height="550px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220813T001200Z
+UID:event-assignment-30709626
+DTSTART;VALUE=DATE;VALUE=DATE:20220811
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Lab: 19 - Automation [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709626
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ code-401-python-guide/curriculum/class-19/lab/" width="1600px" height="550
+ px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220816T045800Z
+UID:event-assignment-30709756
+DTSTART;VALUE=DATE;VALUE=DATE:20220811
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Learning Journal: Class 19 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709756
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ common_curriculum/readings_and_reflections/journal-07" width="1600px" heig
+ ht="550px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220815T202200Z
+UID:event-assignment-30709672
+DTSTART;VALUE=DATE;VALUE=DATE:20220812
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Career: Partner Power Hour - Report #4 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709672
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ common_curriculum/career_coaching/common/partner-power-hour-report" width=
+ "1600px" height="550px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220812T215900Z
+UID:event-assignment-30709648
+DTSTART;VALUE=DATE;VALUE=DATE:20220812
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Feedback: Week 4 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709648
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ common_curriculum/feedback/assignment" width="1600" height="400"></iframe>
+ </p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220628T060800Z
+UID:event-assignment-30709735
+DTSTART;VALUE=DATE;VALUE=DATE:20220812
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Instructor Sync: First half [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709735
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ common_curriculum/career_coaching/common/instructor-1-on-1" width="1600px"
+  height="400px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220816T051100Z
+UID:event-assignment-30709757
+DTSTART;VALUE=DATE;VALUE=DATE:20220812
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Learning Journal: Class 20 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709757
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ common_curriculum/readings_and_reflections/retrospective" width="1600px" h
+ eight="550px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220813T154700Z
+UID:event-assignment-30709796
+DTSTART;VALUE=DATE;VALUE=DATE:20220812
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Project: Midterm Prep #1 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709796
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ common_curriculum/projects/Project_Prep_1" width="1600px" height="550px"><
+ /iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220813T154800Z
+UID:event-assignment-30709797
+DTSTART;VALUE=DATE;VALUE=DATE:20220812
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Project: Midterm Prep #2 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709797
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ common_curriculum/projects/Project_Prep_2" width="1600px" height="550px"><
+ /iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220815T210600Z
+UID:event-assignment-30709798
+DTSTART;VALUE=DATE;VALUE=DATE:20220812
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Project: Midterm Prep #3 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709798
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ common_curriculum/projects/Project_Prep_3" width="1600px" height="550px"><
+ /iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220815T210600Z
+UID:event-assignment-30709799
+DTSTART;VALUE=DATE;VALUE=DATE:20220812
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Project: Midterm Prep #4 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709799
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ common_curriculum/projects/Project_Prep_4" width="1600px" height="550px"><
+ /iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220628T060800Z
+UID:event-calendar-event-2834564
+DTSTART;VALUE=DATE;VALUE=DATE:20220814
+CLASS:PUBLIC
+DESCRIPTION:
+LOCATION:
+SEQUENCE:0
+SUMMARY:Week 5 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+ &month=08&year=2022#calendar_event_2834564
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220816T160000Z
+UID:event-assignment-30709800
+DTSTART;VALUE=DATE;VALUE=DATE:20220815
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Project: Midterm Retro #1 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427/assignments/30709800
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ common_curriculum/projects/Daily_Retro" width="1600px" height="550px"></if
+ rame></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220716T070100Z
+UID:event-assignment-30709801
+DTSTART;VALUE=DATE;VALUE=DATE:20220816
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Project: Midterm Retro #2 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709801
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220815T184700Z
+UID:event-assignment-30709802
+DTSTART;VALUE=DATE;VALUE=DATE:20220817
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Project: Midterm Retro #3 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709802
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220815T184700Z
+UID:event-assignment-30709803
+DTSTART;VALUE=DATE;VALUE=DATE:20220818
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Project: Midterm Retro #4 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709803
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220716T070000Z
+UID:event-assignment-30709633
+DTSTART;VALUE=DATE;VALUE=DATE:20220819
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Feedback: Week 5 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709633
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220716T070100Z
+UID:event-assignment-30709778
+DTSTART;VALUE=DATE;VALUE=DATE:20220819
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Midterm Project: Group Submission [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709778
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220716T070100Z
+UID:event-assignment-30709779
+DTSTART;VALUE=DATE;VALUE=DATE:20220819
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Midterm Project: Individual Submission [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709779
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220628T060800Z
+UID:event-calendar-event-2834563
+DTSTART;VALUE=DATE;VALUE=DATE:20220821
+CLASS:PUBLIC
+DESCRIPTION:
+LOCATION:
+SEQUENCE:0
+SUMMARY:Week 6 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+ &month=08&year=2022#calendar_event_2834563
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220628T060800Z
+UID:event-assignment-30709650
+DTSTART;VALUE=DATE;VALUE=DATE:20220821
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Career: Networking Appointments [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709650
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ common_curriculum/career_coaching/401/final/assignments/networking-event-r
+ eport" width="1600px" height="550px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220716T070000Z
+UID:event-assignment-30709588
+DTSTART:20220822T160000Z
+DTEND:20220822T160000Z
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Read: Class 26 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709588
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ code-401-python-guide/curriculum/class-26/DISCUSSION" width="1600px" heigh
+ t="550px"></iframe></p><p><iframe src="https://codefellows.github.io/commo
+ n_curriculum/readings_and_reflections/discussion_submission" width="1600px
+ " height="500px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220716T070100Z
+UID:event-assignment-30709711
+DTSTART;VALUE=DATE;VALUE=DATE:20220822
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Code Challenge: Class 26 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709711
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220716T070000Z
+UID:event-assignment-30709627
+DTSTART;VALUE=DATE;VALUE=DATE:20220822
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Lab: 26 - Intro to Django [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709627
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220716T070100Z
+UID:event-assignment-30709758
+DTSTART;VALUE=DATE;VALUE=DATE:20220822
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Learning Journal: Class 26 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709758
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220716T070000Z
+UID:event-assignment-30709589
+DTSTART:20220823T160000Z
+DTEND:20220823T160000Z
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Read: Class 27 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709589
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ code-401-python-guide/curriculum/class-27/DISCUSSION" width="1600px" heigh
+ t="550px"></iframe></p><p><iframe src="https://codefellows.github.io/commo
+ n_curriculum/readings_and_reflections/discussion_submission" width="1600px
+ " height="500px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220716T070100Z
+UID:event-assignment-30709712
+DTSTART;VALUE=DATE;VALUE=DATE:20220823
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Code Challenge: Class 27 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709712
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220716T070000Z
+UID:event-assignment-30709628
+DTSTART;VALUE=DATE;VALUE=DATE:20220823
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Lab: 27 - Django Models [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709628
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220716T070100Z
+UID:event-assignment-30709759
+DTSTART;VALUE=DATE;VALUE=DATE:20220823
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Learning Journal: Class 27 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709759
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220716T070000Z
+UID:event-assignment-30709590
+DTSTART:20220824T160000Z
+DTEND:20220824T160000Z
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Read: Class 28 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709590
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ code-401-python-guide/curriculum/class-28/DISCUSSION" width="1600px" heigh
+ t="550px"></iframe></p><p><iframe src="https://codefellows.github.io/commo
+ n_curriculum/readings_and_reflections/discussion_submission" width="1600px
+ " height="500px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220716T070100Z
+UID:event-assignment-30709713
+DTSTART;VALUE=DATE;VALUE=DATE:20220824
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Code Challenge: Class 28 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709713
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220716T070000Z
+UID:event-assignment-30709630
+DTSTART;VALUE=DATE;VALUE=DATE:20220824
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Lab: 28 - Django CRUD [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709630
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220716T070100Z
+UID:event-assignment-30709760
+DTSTART;VALUE=DATE;VALUE=DATE:20220824
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Learning Journal: Class 28 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709760
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220716T070000Z
+UID:event-assignment-30709591
+DTSTART:20220825T160000Z
+DTEND:20220825T160000Z
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Read: Class 29 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709591
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ code-401-python-guide/curriculum/class-29/DISCUSSION" width="1600px" heigh
+ t="550px"></iframe></p><p><iframe src="https://codefellows.github.io/commo
+ n_curriculum/readings_and_reflections/discussion_submission" width="1600px
+ " height="500px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220628T060800Z
+UID:event-assignment-30709665
+DTSTART;VALUE=DATE;VALUE=DATE:20220825
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Career Coaching Workshop #4 Prep - Behavioral Questions [seattle-co
+ de-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709665
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ common_curriculum/career_coaching/401/workshop-4/assignments/behavioral-qu
+ estions" width="1600px" height="550px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220628T060800Z
+UID:event-assignment-30709687
+DTSTART;VALUE=DATE;VALUE=DATE:20220825
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Career Coaching Workshop #4 Prep - Mock Interviews [seattle-code-py
+ thon-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709687
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ common_curriculum/career_coaching/401/workshop-4/assignments/peer-to-peer-
+ workshop-prep" width="1600px" height="550px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220628T060800Z
+UID:event-assignment-30709662
+DTSTART;VALUE=DATE;VALUE=DATE:20220825
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Career Coaching Workshop #4 Prep - Winning the Interview [seattle-c
+ ode-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709662
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ common_curriculum/career_coaching/401/workshop-4/assignments/winning-the-i
+ nterview" width="1600px" height="550px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220716T070100Z
+UID:event-assignment-30709714
+DTSTART;VALUE=DATE;VALUE=DATE:20220825
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Code Challenge: Class 29 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709714
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220716T070000Z
+UID:event-assignment-30709631
+DTSTART;VALUE=DATE;VALUE=DATE:20220825
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Lab: 29 - DjangoX [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709631
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220716T070100Z
+UID:event-assignment-30709761
+DTSTART;VALUE=DATE;VALUE=DATE:20220825
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Learning Journal: Class 29 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709761
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220716T070000Z
+UID:event-assignment-30709653
+DTSTART:20220826T160000Z
+DTEND:20220826T160000Z
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Read: Hash Tables [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709653
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ common_curriculum/data_structures_and_algorithms/Code_401/class-30/DISCUSS
+ ION" width="1600px" height="550px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220628T060800Z
+UID:event-assignment-30709686
+DTSTART;VALUE=DATE;VALUE=DATE:20220826
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Career Coaching Workshop #4: Mock Interviews [seattle-code-python-4
+ 01d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709686
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ common_curriculum/career_coaching/401/workshop-4/assignments/mock-intervie
+ ws" width="1600px" height="550px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220628T060800Z
+UID:event-assignment-30709666
+DTSTART;VALUE=DATE;VALUE=DATE:20220826
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Career: Partner Power Hour - Report #5 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709666
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ common_curriculum/career_coaching/common/partner-power-hour-report" width=
+ "1600px" height="550px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220716T070100Z
+UID:event-assignment-30709715
+DTSTART;VALUE=DATE;VALUE=DATE:20220826
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Code Challenge: Class 30: Hash Table Implementation [seattle-code-p
+ ython-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709715
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220716T070000Z
+UID:event-assignment-30709624
+DTSTART;VALUE=DATE;VALUE=DATE:20220826
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Feedback: Week 6 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709624
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220716T070100Z
+UID:event-assignment-30709762
+DTSTART;VALUE=DATE;VALUE=DATE:20220826
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Learning Journal: Class 30 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709762
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220628T060800Z
+UID:event-calendar-event-2834562
+DTSTART;VALUE=DATE;VALUE=DATE:20220828
+CLASS:PUBLIC
+DESCRIPTION:
+LOCATION:
+SEQUENCE:0
+SUMMARY:Week 7 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+ &month=08&year=2022#calendar_event_2834562
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220628T060800Z
+UID:event-assignment-30709689
+DTSTART;VALUE=DATE;VALUE=DATE:20220828
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Career Coaching Workshop #6 Prep - Presentation Prep 1 [seattle-cod
+ e-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709689
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ common_curriculum/career_coaching/401/workshop-6/assignments/presentation-
+ prep-1" width="1600px" height="550px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220716T070000Z
+UID:event-assignment-30709597
+DTSTART:20220829T160000Z
+DTEND:20220829T160000Z
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Read: Class 31 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709597
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ code-401-python-guide/curriculum/class-31/DISCUSSION" width="1600px" heigh
+ t="550px"></iframe></p><p><iframe src="https://codefellows.github.io/commo
+ n_curriculum/readings_and_reflections/discussion_submission" width="1600px
+ " height="500px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220716T070100Z
+UID:event-assignment-30709716
+DTSTART;VALUE=DATE;VALUE=DATE:20220829
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Code Challenge: Class 31 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709716
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220716T070000Z
+UID:event-assignment-30709632
+DTSTART;VALUE=DATE;VALUE=DATE:20220829
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Lab: 31 - Django REST Framework / Docker [seattle-code-python-401d1
+ 9]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709632
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220716T070100Z
+UID:event-assignment-30709763
+DTSTART;VALUE=DATE;VALUE=DATE:20220829
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Learning Journal: Class 31 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709763
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220716T070000Z
+UID:event-assignment-30709600
+DTSTART:20220830T160000Z
+DTEND:20220830T160000Z
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Read: Class 32 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709600
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ code-401-python-guide/curriculum/class-32/DISCUSSION" width="1600px" heigh
+ t="550px"></iframe></p><p><iframe src="https://codefellows.github.io/commo
+ n_curriculum/readings_and_reflections/discussion_submission" width="1600px
+ " height="500px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220716T070100Z
+UID:event-assignment-30709717
+DTSTART;VALUE=DATE;VALUE=DATE:20220830
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Code Challenge: Class 32 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709717
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220716T070000Z
+UID:event-assignment-30709634
+DTSTART;VALUE=DATE;VALUE=DATE:20220830
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Lab: 32 - Permissions & Postgresql [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709634
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220716T070100Z
+UID:event-assignment-30709764
+DTSTART;VALUE=DATE;VALUE=DATE:20220830
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Learning Journal: Class 32 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709764
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220716T070000Z
+UID:event-assignment-30709599
+DTSTART:20220831T160000Z
+DTEND:20220831T160000Z
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Read: Class 33 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709599
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ code-401-python-guide/curriculum/class-33/DISCUSSION" width="1600px" heigh
+ t="550px"></iframe></p><p><iframe src="https://codefellows.github.io/commo
+ n_curriculum/readings_and_reflections/discussion_submission" width="1600px
+ " height="500px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220716T070100Z
+UID:event-assignment-30709718
+DTSTART;VALUE=DATE;VALUE=DATE:20220831
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Code Challenge: Class 33 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709718
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220716T070000Z
+UID:event-assignment-30709635
+DTSTART;VALUE=DATE;VALUE=DATE:20220831
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Lab: 33 - Authentication & Production Server [seattle-code-python-4
+ 01d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709635
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220716T070100Z
+UID:event-assignment-30709765
+DTSTART;VALUE=DATE;VALUE=DATE:20220831
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Learning Journal: Class 33 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709765
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220716T070000Z
+UID:event-assignment-30709598
+DTSTART:20220901T160000Z
+DTEND:20220901T160000Z
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Read: Class 34 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709598
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ code-401-python-guide/curriculum/class-34/DISCUSSION" width="1600px" heigh
+ t="550px"></iframe></p><p><iframe src="https://codefellows.github.io/commo
+ n_curriculum/readings_and_reflections/discussion_submission" width="1600px
+ " height="500px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220716T070100Z
+UID:event-assignment-30709719
+DTSTART;VALUE=DATE;VALUE=DATE:20220901
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Code Challenge: Class 34 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709719
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220716T070000Z
+UID:event-assignment-30709636
+DTSTART;VALUE=DATE;VALUE=DATE:20220901
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Lab: 34 - Back End Deployment [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709636
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220716T070100Z
+UID:event-assignment-30709766
+DTSTART;VALUE=DATE;VALUE=DATE:20220901
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Learning Journal: Class 34 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709766
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220716T070000Z
+UID:event-assignment-30709652
+DTSTART:20220902T160000Z
+DTEND:20220902T160000Z
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Read: Graphs [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709652
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ common_curriculum/data_structures_and_algorithms/Code_401/class-35/DISCUSS
+ ION" width="1600px" height="550px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220628T060800Z
+UID:event-assignment-30709688
+DTSTART;VALUE=DATE;VALUE=DATE:20220902
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Career Coaching Workshop #5: Technical Interviews [seattle-code-pyt
+ hon-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709688
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ common_curriculum/career_coaching/401/workshop-5/assignments/technical-int
+ erviews-workshop" width="1600px" height="550px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220628T060800Z
+UID:event-assignment-30709668
+DTSTART;VALUE=DATE;VALUE=DATE:20220902
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Career: Partner Power Hour - Report #6 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709668
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ common_curriculum/career_coaching/common/partner-power-hour-report" width=
+ "1600px" height="550px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220716T070100Z
+UID:event-assignment-30709720
+DTSTART;VALUE=DATE;VALUE=DATE:20220902
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Code Challenge: Class 35: Graph Implementation [seattle-code-python
+ -401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709720
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220716T070000Z
+UID:event-assignment-30709645
+DTSTART;VALUE=DATE;VALUE=DATE:20220902
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Feedback: Week 7 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709645
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220716T070100Z
+UID:event-assignment-30709767
+DTSTART;VALUE=DATE;VALUE=DATE:20220902
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Learning Journal: Class 35 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709767
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220628T060800Z
+UID:event-calendar-event-2834561
+DTSTART;VALUE=DATE;VALUE=DATE:20220904
+CLASS:PUBLIC
+DESCRIPTION:
+LOCATION:
+SEQUENCE:0
+SUMMARY:Week 8 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+ &month=09&year=2022#calendar_event_2834561
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220628T060800Z
+UID:event-assignment-30709690
+DTSTART;VALUE=DATE;VALUE=DATE:20220904
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Career Coaching Workshop #6 Prep - Presentation Prep 2 [seattle-cod
+ e-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709690
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ common_curriculum/career_coaching/401/workshop-6/assignments/presentation-
+ prep-2" width="1600px" height="550px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220628T060800Z
+UID:event-assignment-30709651
+DTSTART;VALUE=DATE;VALUE=DATE:20220904
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Career: Coffee Networking Report [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709651
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ common_curriculum/career_coaching/401/final/assignments/coffee-networking-
+ report" width="1600px" height="550px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220628T060800Z
+UID:event-assignment-30709661
+DTSTART;VALUE=DATE;VALUE=DATE:20220904
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Career: Networking Update [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709661
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ common_curriculum/career_coaching/401/final/assignments/networking-event-r
+ eport" width="1600px" height="550px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220716T070000Z
+UID:event-assignment-30709601
+DTSTART:20220905T160000Z
+DTEND:20220905T160000Z
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Read: Class 36 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709601
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ code-401-python-guide/curriculum/class-36/DISCUSSION" width="1600px" heigh
+ t="550px"></iframe></p><p><iframe src="https://codefellows.github.io/commo
+ n_curriculum/readings_and_reflections/discussion_submission" width="1600px
+ " height="500px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220716T070100Z
+UID:event-assignment-30709721
+DTSTART;VALUE=DATE;VALUE=DATE:20220905
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Code Challenge: Class 36 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709721
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220716T070000Z
+UID:event-assignment-30709638
+DTSTART;VALUE=DATE;VALUE=DATE:20220905
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Lab: 36 - Computational Thinking [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709638
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220716T070100Z
+UID:event-assignment-30709768
+DTSTART;VALUE=DATE;VALUE=DATE:20220905
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Learning Journal: Class 36 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709768
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220716T070000Z
+UID:event-assignment-30709603
+DTSTART:20220906T160000Z
+DTEND:20220906T160000Z
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Read: Class 37 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709603
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ code-401-python-guide/curriculum/class-37/DISCUSSION" width="1600px" heigh
+ t="550px"></iframe></p><p><iframe src="https://codefellows.github.io/commo
+ n_curriculum/readings_and_reflections/discussion_submission" width="1600px
+ " height="500px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220716T070100Z
+UID:event-assignment-30709722
+DTSTART;VALUE=DATE;VALUE=DATE:20220906
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Code Challenge: Class 37 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709722
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220716T070000Z
+UID:event-assignment-30709639
+DTSTART;VALUE=DATE;VALUE=DATE:20220906
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Lab: 37 - React I [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709639
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220716T070100Z
+UID:event-assignment-30709769
+DTSTART;VALUE=DATE;VALUE=DATE:20220906
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Learning Journal: Class 37 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709769
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220716T070000Z
+UID:event-assignment-30709604
+DTSTART:20220907T160000Z
+DTEND:20220907T160000Z
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Read: Class 38 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709604
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ code-401-python-guide/curriculum/class-38/DISCUSSION" width="1600px" heigh
+ t="550px"></iframe></p><p><iframe src="https://codefellows.github.io/commo
+ n_curriculum/readings_and_reflections/discussion_submission" width="1600px
+ " height="500px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220716T070100Z
+UID:event-assignment-30709723
+DTSTART;VALUE=DATE;VALUE=DATE:20220907
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Code Challenge: Class 38 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709723
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220716T070000Z
+UID:event-assignment-30709640
+DTSTART;VALUE=DATE;VALUE=DATE:20220907
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Lab: 38 - React II [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709640
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220716T070100Z
+UID:event-assignment-30709770
+DTSTART;VALUE=DATE;VALUE=DATE:20220907
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Learning Journal: Class 38 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709770
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220716T070000Z
+UID:event-assignment-30709602
+DTSTART:20220908T160000Z
+DTEND:20220908T160000Z
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Read: Class 39 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709602
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ code-401-python-guide/curriculum/class-39/DISCUSSION" width="1600px" heigh
+ t="550px"></iframe></p><p><iframe src="https://codefellows.github.io/commo
+ n_curriculum/readings_and_reflections/discussion_submission" width="1600px
+ " height="500px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220628T060800Z
+UID:event-assignment-30709691
+DTSTART;VALUE=DATE;VALUE=DATE:20220908
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Career Coaching Workshop #6 Prep - Presentation Prep 3 [seattle-cod
+ e-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709691
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ common_curriculum/career_coaching/401/workshop-6/assignments/presentation-
+ prep-3" width="1600px" height="550px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220716T070100Z
+UID:event-assignment-30709724
+DTSTART;VALUE=DATE;VALUE=DATE:20220908
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Code Challenge: Class 39 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709724
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220716T070000Z
+UID:event-assignment-30709642
+DTSTART;VALUE=DATE;VALUE=DATE:20220908
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Lab: 39 - React III [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709642
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220716T070100Z
+UID:event-assignment-30709771
+DTSTART;VALUE=DATE;VALUE=DATE:20220908
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Learning Journal: Class 39 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709771
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220716T070000Z
+UID:event-assignment-30709576
+DTSTART:20220909T160000Z
+DTEND:20220909T160000Z
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Read: Class 40 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709576
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ code-401-python-guide/curriculum/class-40/DISCUSSION" width="1600px" heigh
+ t="550px"></iframe></p><p><iframe src="https://codefellows.github.io/commo
+ n_curriculum/readings_and_reflections/discussion_submission" width="1600px
+ " height="500px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220628T060800Z
+UID:event-assignment-30709657
+DTSTART;VALUE=DATE;VALUE=DATE:20220909
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Career Coaching Workshop #6: Presentation Day [seattle-code-python-
+ 401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709657
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ common_curriculum/career_coaching/401/workshop-6/assignments/presentation-
+ day" width="1600px" height="550px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220628T060800Z
+UID:event-assignment-30709669
+DTSTART;VALUE=DATE;VALUE=DATE:20220909
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Career: Partner Power Hour - Report #7 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709669
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ common_curriculum/career_coaching/common/partner-power-hour-report" width=
+ "1600px" height="550px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220716T070100Z
+UID:event-assignment-30709616
+DTSTART;VALUE=DATE;VALUE=DATE:20220909
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Feedback: Week 8 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709616
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220628T060800Z
+UID:event-assignment-30709736
+DTSTART;VALUE=DATE;VALUE=DATE:20220909
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Instructor Sync: Second half [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709736
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ common_curriculum/career_coaching/common/instructor-1-on-1" width="1600px"
+  height="400px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220716T070100Z
+UID:event-assignment-30709772
+DTSTART;VALUE=DATE;VALUE=DATE:20220909
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Learning Journal: Class 40 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709772
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220628T060800Z
+UID:event-calendar-event-2834560
+DTSTART;VALUE=DATE;VALUE=DATE:20220911
+CLASS:PUBLIC
+DESCRIPTION:
+LOCATION:
+SEQUENCE:0
+SUMMARY:Week 9 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+ &month=09&year=2022#calendar_event_2834560
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220716T070000Z
+UID:event-assignment-30709606
+DTSTART:20220912T160000Z
+DTEND:20220912T160000Z
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Read: Class 41 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709606
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ code-401-python-guide/curriculum/class-41/DISCUSSION" width="1600px" heigh
+ t="550px"></iframe></p><p><iframe src="https://codefellows.github.io/commo
+ n_curriculum/readings_and_reflections/discussion_submission" width="1600px
+ " height="500px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220716T070100Z
+UID:event-assignment-30709725
+DTSTART;VALUE=DATE;VALUE=DATE:20220912
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Code Challenge: Class 41 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709725
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220716T070000Z
+UID:event-assignment-30709643
+DTSTART;VALUE=DATE;VALUE=DATE:20220912
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Lab: 41 - Front End Deployment [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709643
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220716T070100Z
+UID:event-assignment-30709773
+DTSTART;VALUE=DATE;VALUE=DATE:20220912
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Learning Journal: Class 41 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709773
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220716T070100Z
+UID:event-assignment-30709788
+DTSTART;VALUE=DATE;VALUE=DATE:20220912
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Project: Final Prep #1 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709788
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220716T070000Z
+UID:event-assignment-30709605
+DTSTART:20220913T160000Z
+DTEND:20220913T160000Z
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Read: Class 42 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709605
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ code-401-python-guide/curriculum/class-42/DISCUSSION" width="1600px" heigh
+ t="550px"></iframe></p><p><iframe src="https://codefellows.github.io/commo
+ n_curriculum/readings_and_reflections/discussion_submission" width="1600px
+ " height="500px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220716T070000Z
+UID:event-assignment-30709804
+DTSTART:20220913T160000Z
+DTEND:20220913T160000Z
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Read: Class 42 - Ethics in Tech [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709804
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ common_curriculum/engineering/class-42/DISCUSSION" width="1600px" height="
+ 550px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220716T070100Z
+UID:event-assignment-30709726
+DTSTART;VALUE=DATE;VALUE=DATE:20220913
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Code Challenge: Class 42 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709726
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220716T070000Z
+UID:event-assignment-30709644
+DTSTART;VALUE=DATE;VALUE=DATE:20220913
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Lab: 42 - Pythonisms [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709644
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220716T070100Z
+UID:event-assignment-30709774
+DTSTART;VALUE=DATE;VALUE=DATE:20220913
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Learning Journal: Class 42 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709774
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220716T070100Z
+UID:event-assignment-30709789
+DTSTART;VALUE=DATE;VALUE=DATE:20220913
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Project: Final Prep #2 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709789
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220716T070000Z
+UID:event-assignment-30709805
+DTSTART:20220914T160000Z
+DTEND:20220914T160000Z
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Read: Class 43 - OSS Contributions [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709805
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ common_curriculum/engineering/class-43/DISCUSSION" width="1600px" height="
+ 550px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220716T070100Z
+UID:event-assignment-30709727
+DTSTART;VALUE=DATE;VALUE=DATE:20220914
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Code Challenge: Class 43 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709727
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220716T070100Z
+UID:event-assignment-30709775
+DTSTART;VALUE=DATE;VALUE=DATE:20220914
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Learning Journal: Class 43 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709775
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220716T070100Z
+UID:event-assignment-30709790
+DTSTART;VALUE=DATE;VALUE=DATE:20220914
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Project: Final Prep #3 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709790
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220716T070100Z
+UID:event-assignment-30709728
+DTSTART;VALUE=DATE;VALUE=DATE:20220915
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Code Challenge: Class 44 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709728
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220716T210200Z
+UID:event-assignment-30709737
+DTSTART;VALUE=DATE;VALUE=DATE:20220915
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Lab: 44 - Open Source Contribution [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709737
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220716T070100Z
+UID:event-assignment-30709776
+DTSTART;VALUE=DATE;VALUE=DATE:20220915
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Learning Journal: Class 44 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709776
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220716T070100Z
+UID:event-assignment-30709791
+DTSTART;VALUE=DATE;VALUE=DATE:20220915
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Project: Final Prep #4 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709791
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220628T060800Z
+UID:event-assignment-30709670
+DTSTART;VALUE=DATE;VALUE=DATE:20220916
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Career: Partner Power Hour - Report #8 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709670
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ common_curriculum/career_coaching/common/partner-power-hour-report" width=
+ "1600px" height="550px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220716T070100Z
+UID:event-assignment-30709637
+DTSTART;VALUE=DATE;VALUE=DATE:20220916
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Feedback: Week 9 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709637
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220628T060800Z
+UID:event-assignment-30709731
+DTSTART;VALUE=DATE;VALUE=DATE:20220916
+CLASS:PUBLIC
+DESCRIPTION:There will be no submission for this assignment. \n\nYour inst
+ ructor will record the results of your final exam here\, and this grade wi
+ ll be reflected in your total. 
+SEQUENCE:0
+SUMMARY:Final Exam - Pass / Fail [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709731
+X-ALT-DESC;FMTTYPE=text/html:<p>There will be no submission for this assign
+ ment.&nbsp\;</p>\n<p>Your instructor will record the results of your final
+  exam here\, and this grade will be reflected in your total.&nbsp\;<i><spa
+ n></span></i></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220628T060800Z
+UID:event-assignment-30709732
+DTSTART;VALUE=DATE;VALUE=DATE:20220916
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Final Exam - Whiteboard Interview [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709732
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ common_curriculum/exams/401-final/assignment" width="1600px" height="550px
+ "></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220716T070100Z
+UID:event-assignment-30709777
+DTSTART;VALUE=DATE;VALUE=DATE:20220916
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Learning Journal: Class 45 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709777
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220628T060800Z
+UID:event-assignment-30709660
+DTSTART;VALUE=DATE;VALUE=DATE:20220917
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Career Accelerator: Routine & Motivation [seattle-code-python-401d1
+ 9]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709660
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ common_curriculum/career_coaching/401/final/assignments/routine-and-motiva
+ tion" width="1600px" height="550px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220628T060800Z
+UID:event-calendar-event-2834559
+DTSTART;VALUE=DATE;VALUE=DATE:20220918
+CLASS:PUBLIC
+DESCRIPTION:
+LOCATION:
+SEQUENCE:0
+SUMMARY:Week 10 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+ &month=09&year=2022#calendar_event_2834559
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220628T060800Z
+UID:event-assignment-30709676
+DTSTART;VALUE=DATE;VALUE=DATE:20220919
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Career Accelerator: Resume Approval by Instructor [seattle-code-pyt
+ hon-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709676
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ common_curriculum/career_coaching/common/resume-approval" width="1600px" h
+ eight="550px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220628T060800Z
+UID:event-assignment-30709677
+DTSTART;VALUE=DATE;VALUE=DATE:20220919
+CLASS:PUBLIC
+DESCRIPTION:https://calendly.com/career_accelerator/qualifying-interview
+SEQUENCE:0
+SUMMARY:Career Accelerator: Schedule Qualifying Interview [seattle-code-pyt
+ hon-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709677
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ common_curriculum/career_coaching/401/final/assignments/schedule-your-qual
+ ifying-interview" width="1600px" height="550px"></iframe></p>\n<p><a class
+ ="c-link" href="https://calendly.com/career_accelerator/qualifying-intervi
+ ew" target="_blank" aria-describedby="slack-kit-tooltip">https://calendly.
+ com/career_accelerator/qualifying-interview</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220716T070100Z
+UID:event-assignment-30709792
+DTSTART;VALUE=DATE;VALUE=DATE:20220919
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Project: Final Retro #1 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709792
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220716T070100Z
+UID:event-assignment-30709793
+DTSTART;VALUE=DATE;VALUE=DATE:20220920
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Project: Final Retro #2 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709793
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220716T070100Z
+UID:event-assignment-30709794
+DTSTART;VALUE=DATE;VALUE=DATE:20220921
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Project: Final Retro #3 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709794
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220628T060800Z
+UID:event-assignment-30709675
+DTSTART:20220922T160000Z
+DTEND:20220922T160000Z
+CLASS:PUBLIC
+DESCRIPTION:Ready for review? Create a comment that tags: materials_review@
+ codefellows.com\n---------------------------------------------------------
+ ---------------------
+SEQUENCE:0
+SUMMARY:Career Accelerator: Finalize Your Materials [seattle-code-python-40
+ 1d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709675
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ common_curriculum/career_coaching/401/final/assignments/finalize-materials
+ " width="100%" height="550px"></iframe></p>\n<h3>Ready for review? Create 
+ a comment that tags: <span style="text-decoration: underline\; color: #336
+ 6ff\;">materials_review@codefellows.com</span>\n</h3>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220716T070100Z
+UID:event-assignment-30709795
+DTSTART;VALUE=DATE;VALUE=DATE:20220922
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Project: Final Retro #4 [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709795
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220628T060800Z
+UID:event-assignment-30709729
+DTSTART;VALUE=DATE;VALUE=DATE:20220923
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:End-of-course Instructor Review [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709729
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ common_curriculum/career_coaching/common/instructor-review" width="1600px"
+  height="300px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220628T060800Z
+UID:event-assignment-30709730
+DTSTART;VALUE=DATE;VALUE=DATE:20220923
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:End-of-course Instructor Review Result [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709730
+X-ALT-DESC;FMTTYPE=text/html:<p><iframe src="https://codefellows.github.io/
+ common_curriculum/career_coaching/common/instructor-review-result" width="
+ 1600px" height="300px"></iframe></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220716T070100Z
+UID:event-assignment-30709641
+DTSTART;VALUE=DATE;VALUE=DATE:20220923
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Feedback: Final Week [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709641
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220716T070100Z
+UID:event-assignment-30709734
+DTSTART;VALUE=DATE;VALUE=DATE:20220923
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Final Project: Individual Submission [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709734
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220716T070100Z
+UID:event-assignment-30709733
+DTSTART;VALUE=DATE;VALUE=DATE:20220925
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Final Project: Group Submission [seattle-code-python-401d19]
+URL:https://canvas.instructure.com/courses/4916427
+/assignments/30709733
+END:VEVENT
+END:VCALENDAR

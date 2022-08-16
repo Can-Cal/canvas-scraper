@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f45cd8a0-9e83-4de4-ab62-3382285ff709" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/reg_cal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/txt_to_csv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/updated_text.ics" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scraper.py" beforeDir="false" afterPath="$PROJECT_DIR$/scraper.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
