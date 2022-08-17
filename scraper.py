@@ -10,8 +10,6 @@ def welcome():
     print("** @_@ Welcome to Canvas Scraper @_@  **")
     print("****************************************")
 
-welcome()
-
 def run(playwright):
     browser = playwright.chromium.launch(headless=False, channel='chrome')
 
@@ -20,16 +18,10 @@ def run(playwright):
     password = getpass.getpass('Please input your Canvas password:')
     page = browser.new_page()
     page.goto("https://canvas.instructure.com/calendar")
-    # page.goto("https://canvas.instructure.com/calendar#view_name=agenda&view_start=2022-07-18")
 
     page.fill('input#pseudonym_session_unique_id.ic-Input.text', user_email)
     page.fill('input#pseudonym_session_password.ic-Input.text', password)
     page.click('button[class="Button Button--login"]')
-    # page.goto("https://canvas.instructure.com/calendar#view_name=agenda&view_start=2022-07-18")
-    # html = page.inner_html('#calendar-app')
-    # print(html)
-    # soup = BeautifulSoup(html, 'html.parser')
-
 
     page.click('button[class="dialog_opener Button Button--link"]')
     page.wait_for_timeout(2000)
@@ -77,25 +69,24 @@ def run(playwright):
         print("actual scores: 0")
         print("total scores:", ngts)
 
-    # for index in range(len(stats)):
-    #     each_stat = re.sub(r"\s+", "", stats[index].text_content())
-    #     print(each_stat)
-
-
-        #titles = page.query_selector_all("//tbody")  # //div['agenda-event__time']
-        #print(titles)
-        # for i in titles:
-        #     # print(i.text_content())
-        #     i = i.text_content()
-        # with open('./output.txt', 'w') as f:
-        #     for i in titles:
-        #         f.write(i.text_content() + "\n")
+    """
+    ##### Do we still need this part? #####
+    ##### Writing files #####
+    # for i in titles:
+    #     # print(i.text_content())
+    #     i = i.text_content()
+    # with open('./output.txt', 'w') as f:
+    #     for i in titles:
+    #         f.write(i.text_content() + "\n")
+    """
 
     page.wait_for_timeout(10000)
 
     page.close()
     browser.close()
 
+    """
+    ####### checking lists length #######
     for i, j in dic.items():
         print(i, j)
     print("graded_titles: ", len(graded_titles))
@@ -105,13 +96,9 @@ def run(playwright):
     print("not_graded_total_scores", len(not_graded_total_scores))
     print("dic: ", len(dic))
     print("stats: ",len(stats))
-
-#For future reference
-# def export_data(dic):
-#     with open("scores.txt", "w") as f:
-#         for k, v in dic:
-#             f.write(f"{k}, {v}")
+    """
 
 if __name__ == '__main__':
+    welcome()
     with sync_playwright() as playwright:
         run(playwright)
