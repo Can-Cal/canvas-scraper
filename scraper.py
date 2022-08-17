@@ -1,6 +1,7 @@
 from playwright.sync_api import sync_playwright
 
 import getpass
+import re
 
 assignment_link = ""
 
@@ -41,43 +42,69 @@ def run(playwright):
     dic={}
 
     page.goto("https://canvas.instructure.com/courses/4916427/grades")
-    with page.expect_navigation():
-        page.wait_for_timeout(15000)
-        graded_titles = page.query_selector_all("//tr[@class='student_assignment assignment_graded editable']/th[@class='title']/a")
+    #with page.expect_navigation():
+    page.wait_for_timeout(15000)
+    graded_titles = page.query_selector_all("//tr[@class='student_assignment assignment_graded editable']/th[@class='title']/a")
 
-        graded_actual_scores = page.query_selector_all("//span[@class='original_score']")
-        graded_total_scores = page.query_selector_all("//tr[@class='student_assignment assignment_graded editable']//td[@class='possible points_possible']")
+    graded_actual_scores = page.query_selector_all("//tr[@class='student_assignment assignment_graded editable']//span[@class='original_score']")
+    graded_total_scores = page.query_selector_all("//tr[@class='student_assignment assignment_graded editable']//td[@class='possible points_possible']")
 
-        not_graded_titles = page.query_selector_all("//tr[@class='student_assignment editable']/th[@class='title']/a")
-        not_graded_total_scores = page.query_selector_all("//tr[@class='student_assignment editable']//td[@class='possible points_possible']")
+    not_graded_titles = page.query_selector_all("//tr[@class='student_assignment editable']/th[@class='title']/a")
+    not_graded_total_scores = page.query_selector_all("//tr[@class='student_assignment editable']//td[@class='possible points_possible']")
 
+    #Statistics for score data
+    stats = page.query_selector_all("//tr[@class='comments grade_details assignment_graded']//tbody")
 
-        #Statistics for score data
-        #stats = page.query_selector_all("//tr[@class='comments grade_details assignment_graded']//tbody")
+    index_stats = 0
+    for index in range(len(graded_titles)):
+        gas = re.sub(r"\s+", "", graded_actual_scores[index].text_content())
+        gts = re.sub(r"\s+", "", graded_total_scores[index].text_content())
+        each_stat = re.sub(r"\s+", "", stats[index_stats].text_content())
 
-        for index in range(len(graded_titles)):
+        if graded_titles[index].text_content() != "Roll Call Attendance" and gts != '0':
+            dic[graded_titles[index].text_content()] = [gas,gts, each_stat]
+            index_stats +=1
             print("Title: ", graded_titles[index].text_content())
-            print(f"actual scores: {graded_actual_scores[index].text_content()}")
-            print(f"total scores: {graded_total_scores[index].text_content()}")
+            print("actual scores:", gas)
+            print("total scores:", gts)
+            print("stats:", each_stat)
 
-        for index in range(len(not_graded_titles)):
-            print("title: ", not_graded_titles[index].text_content())
-            print("actual scores: 0")
-            print("total scores:", not_graded_total_scores[index].text_content())
-    
+    for index in range(len(not_graded_titles)):
+        ngts = re.sub(r"\s+", "", not_graded_total_scores[index].text_content())
+        dic[not_graded_titles[index].text_content()] = [0, ngts]
+
+        print("title: ", not_graded_titles[index].text_content())
+        print("actual scores: 0")
+        print("total scores:", ngts)
+
+    # for index in range(len(stats)):
+    #     each_stat = re.sub(r"\s+", "", stats[index].text_content())
+    #     print(each_stat)
+
+
         #titles = page.query_selector_all("//tbody")  # //div['agenda-event__time']
         #print(titles)
         # for i in titles:
         #     # print(i.text_content())
         #     i = i.text_content()
-        with open('./output.txt', 'w') as f:
-            for i in titles:
-                f.write(i.text_content() + "\n")
+        # with open('./output.txt', 'w') as f:
+        #     for i in titles:
+        #         f.write(i.text_content() + "\n")
 
     page.wait_for_timeout(10000)
 
     page.close()
     browser.close()
+
+    for i, j in dic.items():
+        print(i, j)
+    print("graded_titles: ", len(graded_titles))
+    print("graded_actual_scores: ", len(graded_actual_scores))
+    print("not_graded_titles: ", len(not_graded_titles))
+    print("graded_total_scores", len(graded_total_scores))
+    print("not_graded_total_scores", len(not_graded_total_scores))
+    print("dic: ", len(dic))
+    print("stats: ",len(stats))
 
 #For future reference
 # def export_data(dic):
