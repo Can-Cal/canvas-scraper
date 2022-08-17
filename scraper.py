@@ -1,19 +1,34 @@
 from playwright.sync_api import sync_playwright
+
 import getpass
 
 assignment_link = ""
 
+def welcome():
+    print("****************************************")
+    print("** @_@ Welcome to Canvas Scraper @_@  **")
+    print("****************************************")
+
+welcome()
+
 def run(playwright):
     browser = playwright.chromium.launch(headless=False, channel='chrome')
+
     # context = browser.new_context()
     user_email = input('Please input your Canvas account email:')
     password = getpass.getpass('Please input your Canvas password:')
     page = browser.new_page()
     page.goto("https://canvas.instructure.com/calendar")
     # page.goto("https://canvas.instructure.com/calendar#view_name=agenda&view_start=2022-07-18")
+
     page.fill('input#pseudonym_session_unique_id.ic-Input.text', user_email)
     page.fill('input#pseudonym_session_password.ic-Input.text', password)
     page.click('button[class="Button Button--login"]')
+    # page.goto("https://canvas.instructure.com/calendar#view_name=agenda&view_start=2022-07-18")
+    # html = page.inner_html('#calendar-app')
+    # print(html)
+    # soup = BeautifulSoup(html, 'html.parser')
+
 
     page.click('button[class="dialog_opener Button Button--link"]')
     page.wait_for_timeout(2000)
@@ -49,6 +64,17 @@ def run(playwright):
             print("title: ", not_graded_titles[index].text_content())
             print("actual scores: 0")
             print("total scores:", not_graded_total_scores[index].text_content())
+    
+        #titles = page.query_selector_all("//tbody")  # //div['agenda-event__time']
+        #print(titles)
+        # for i in titles:
+        #     # print(i.text_content())
+        #     i = i.text_content()
+        with open('./output.txt', 'w') as f:
+            for i in titles:
+                f.write(i.text_content() + "\n")
+
+    page.wait_for_timeout(10000)
 
     page.close()
     browser.close()
