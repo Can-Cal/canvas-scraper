@@ -24,6 +24,10 @@ def handle_data(dic):
             predicted_data.append(each_data)
     export_csv(data, 'current_graded_scores')
     export_csv(predicted_data, 'not_grade_scores')
+
+def add(a,b):
+    return a + b
+
 def split_digits(words):
     """
     This method splits the strings(Mean, Median...) and statics data
@@ -40,6 +44,7 @@ def split_digits(words):
                 result.append(temp)
             temp = ""
     return result[0:6]
+
 def export_csv(data, file_name):
     """
     Takes in scores data and export out as .csv file
@@ -54,6 +59,7 @@ def export_csv(data, file_name):
         writer.writerow(header)
         #write multiple rows
         writer.writerows(data)
+
 if __name__ == '__main__':
     #Sample data for testing.
     dic = {
