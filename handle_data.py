@@ -7,11 +7,9 @@ import seaborn as sns
 def handle_data(dic):
     """
     Takes in a dictionary that contains assignments data and handles data for analysis.
-
     :param dic: dictionary, key: assignments name; value: a list of scores, total scores, stats strings
     :return: None
     """
-
     data = []
     predicted_data = []
     for title, score in dic.items():
@@ -33,7 +31,6 @@ def handle_data(dic):
 def split_digits(words):
     """
     This method splits the strings(Mean, Median...) and statics data
-
     :param words: String that contains stats data for whole class
     :return: list, [ Mean, Median, High, UpperQuartile, Low, LowerQuartile]
     """
@@ -88,4 +85,5 @@ if __name__ == '__main__':
     # print(split_digits('Mean:5.13Median:5High:10UpperQuartile:9Low:0LowerQuartile:2Median5.0,High10.0,Low0.0YourScore:9.0outof10'))
 
     handle_data(dic)
+
 

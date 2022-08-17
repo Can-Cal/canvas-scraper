@@ -1,4 +1,8 @@
 from playwright.sync_api import sync_playwright
+
+import create_json
+import requests
+import api
 from handle_data import handle_data
 
 import getpass
@@ -29,10 +33,13 @@ def run(playwright):
 
     global assignment_link
     assignment_link = page.query_selector('//p[@id="calendar-feed-box-lower"]/a')
-    print(assignment_link.get_attribute("href"))
+    assignment_link = assignment_link.get_attribute("href")
+    # response = requests.get(assignment_text)
+    # create_json.create_json(response.content)
 
     #Dictionary: key: title, value: score
     dic={}
+
 
     page.goto("https://canvas.instructure.com/courses/4916427/grades")
     #with page.expect_navigation():
@@ -89,3 +96,5 @@ if __name__ == '__main__':
     welcome()
     with sync_playwright() as playwright:
         run(playwright)
+        response = requests.get(assignment_link)
+        create_json.create_json(response.content.decode('utf-8'))
