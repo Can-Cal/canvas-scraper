@@ -2,6 +2,7 @@ import re
 
 regex_front = r"(?:calendar\?include_contexts=course_)"
 regex_new_line = r"[\n]"
+regex_separator = r"[\r]"
 regex_back = r"(?:\s&month=\d{2}&year=\d{4}#assignment_)"
 regex_back2 = r"(?:\s&month=\d{2}&year=\d{4}#calendar_event_)"
 
@@ -14,8 +15,9 @@ updated_date_list = []
 
 
 def create_json(file):
-    with open(file) as f:
-        unparsed_data = f.readlines()
+    unparsed_data = file
+
+    unparsed_data = re.split(regex_new_line, unparsed_data)
 
     global assignment_list
     global date_list
@@ -27,7 +29,9 @@ def create_json(file):
     for string in unparsed_data:
         if "SUMMARY" in string:
             string = re.sub("SUMMARY:", "", string)
+            string = re.sub(regex_separator, "", string)
             string = re.sub(regex_new_line, "", string)
+            string = re.sub(r"\\", "", string)
             # print(string + "\n")
             assignment_list.append(string)
         if "DTSTART" in string:
@@ -35,6 +39,7 @@ def create_json(file):
                 string = re.sub("DTSTART;VALUE=DATE;VALUE=DATE:", "", string)
             else:
                 string = re.sub("DTSTART:", "", string)
+            string = re.sub(regex_separator, "", string)
             string = re.sub(regex_new_line, "", string)
             # print(string + "\n")
             date_list.append(string)
@@ -51,6 +56,7 @@ def create_json(file):
 
     for count, string in enumerate(url_front_list):
         string = url_front_list[count] + url_back_list[count]
+        string = re.sub(regex_separator, "", string)
         string = re.sub(regex_new_line, "", string)
         complete_url_list.append(string)
 
@@ -84,6 +90,9 @@ def create_json(file):
             file.write(f"\"dateTime\": \"{updated_date_list[count]}\",\n")
             file.write(f"\"timeZone\": \"America/Los_Angeles\"\n")
             file.write("}\n")
-            file.write("},\n")
+            if count == len(assignment_list)-1:
+                file.write("}\n")
+            else:
+                file.write("},\n")
         file.write("]")
 
