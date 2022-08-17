@@ -1,4 +1,8 @@
+import csv
+
 import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
 
 def handle_data(dic):
     """
@@ -7,19 +11,24 @@ def handle_data(dic):
     :param dic: dictionary, key: assignments name; value: a list of scores, total scores, stats strings
     :return: None
     """
-    lab_scores = []
-    cha_scores = []
-    for title, score in dic.items():
-        if title[0:3] == "Lab":
-            lab_scores.append(int(score[0]))
-        elif title[0:4] == "Code":
-            cha_scores.append(int(score[0]))
-        x = split_digits(score[2])
 
-    a = pd.DataFrame(lab_scores)
-    b = pd.DataFrame(cha_scores)
-    print(a.describe())
-    print(b.describe())
+    data = []
+    predicted_data = []
+    for title, score in dic.items():
+        each_data = []
+        each_data.append(title)
+        each_data.append(float(score[0]))
+        each_data.append(float(score[1]))
+        if len(score) == 3:
+            class_stats_data = split_digits(score[2])
+            for stat in class_stats_data:
+                each_data.append(float(stat))
+            data.append(each_data)
+        else: #Not graded assignments.
+            predicted_data.append(each_data)
+
+    export_csv(data, 'current_graded_scores')
+    export_csv(predicted_data, 'not_grade_scores')
 
 def split_digits(words):
     """
@@ -28,6 +37,7 @@ def split_digits(words):
     :param words: String that contains stats data for whole class
     :return: list, [ Mean, Median, High, UpperQuartile, Low, LowerQuartile]
     """
+
     result = []
     temp = ""
     for w in words:
@@ -39,6 +49,25 @@ def split_digits(words):
             temp = ""
     return result[0:6]
 
+def export_csv(data, file_name):
+    """
+    Takes in scores data and export out as .csv file
+
+    :param data: array of scores
+    :return: None
+    """
+
+    header = ['assignemnt_title', 'graded_score', 'total_score', 'assignment_mean',
+              'assignment_median', 'assignment_high', 'assingment_upperquartile', 'assignment_low', 'assignment_lowerquartile']
+
+    with open(f'{file_name}.csv', 'w', encoding='UTF8', newline='') as f:
+        writer = csv.writer(f)
+
+        #write the header
+        writer.writerow(header)
+
+        #write multiple rows
+        writer.writerows(data)
 
 if __name__ == '__main__':
     #Sample data for testing.
@@ -52,10 +81,11 @@ if __name__ == '__main__':
         'Code Challenge: Class 7': ['4', '5', 'Mean:3.58Median:4High:5UpperQuartile:4.63Low:0LowerQuartile:3Median4.0,High5.0,Low0.0YourScore:4.0outof5'],
         'Lab: 8': ['9', '10', 'Mean:7.6Median:9High:10UpperQuartile:10Low:0LowerQuartile:7Median9.0,High10.0,Low0.0YourScore:9.0outof10'],
         'Code Challenge: Class 9': ['2', '5', 'Mean:4.75Median:5High:5UpperQuartile:5Low:0LowerQuartile:5Median5.0,High5.0,Low0.0YourScore:2.0outof5'],
-        'Lab: 10': ['7', '10', 'Mean:5.13Median:5High:10UpperQuartile:9Low:0LowerQuartile:2Median5.0,High10.0,Low0.0YourScore:7.0outof10'],
+        'Lab: 10': ['7', '10']
     }
+
+    ###Run this test to see the result###
+    # print(split_digits('Mean:5.13Median:5High:10UpperQuartile:9Low:0LowerQuartile:2Median5.0,High10.0,Low0.0YourScore:9.0outof10'))
 
     handle_data(dic)
 
-    ###Run this test to see the result###
-    #print(split_digits('Mean:5.13Median:5High:10UpperQuartile:9Low:0LowerQuartile:2Median5.0,High10.0,Low0.0YourScore:9.0outof10'))
