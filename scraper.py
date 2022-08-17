@@ -2,6 +2,7 @@ from playwright.sync_api import sync_playwright
 import create_json
 import requests
 import api
+from handle_data import handle_data
 
 import getpass
 import re
@@ -17,8 +18,8 @@ def run(playwright):
     browser = playwright.chromium.launch(headless=False, channel='chrome')
 
     # context = browser.new_context()
-    user_email = "brindlejsam@gmail.com"  #input('Please input your Canvas account email:')
-    password = "0408Futur!" #getpass.getpass('Please input your Canvas password:')
+    user_email = input('Please input your Canvas account email:')
+    password = getpass.getpass('Please input your Canvas password:')
     page = browser.new_page()
     page.goto("https://canvas.instructure.com/calendar")
 
@@ -104,6 +105,7 @@ def run(playwright):
     print("stats: ",len(stats))
     """
 
+    handle_data(dic)
 
 if __name__ == '__main__':
     welcome()
