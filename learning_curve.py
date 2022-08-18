@@ -23,6 +23,7 @@ def learn_curve():
     plt.xlabel("Assignment numbers")
     plt.ylabel("Your score")
     plt.plot(ypoints, linestyle='dotted')
+    plt.savefig('./visualization/learn_curve.png')
     plt.show()
 
 

@@ -177,3 +177,6 @@ current_graded_scores.csv
 current_graded_scores.csv
 not_grade_scores.csv
 
+./visualization
+visualization.md
+
