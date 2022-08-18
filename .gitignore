@@ -169,6 +169,9 @@ token.json
 events.json
 output.txt
 
+not_grade_scores.csv
+current_graded_scores.csv
+
 .csv
 
 current_graded_scores.csv

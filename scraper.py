@@ -1,4 +1,5 @@
 from playwright.sync_api import sync_playwright
+
 import create_json
 import requests
 import api
@@ -63,31 +64,16 @@ def run(playwright):
         each_stat = re.sub(r"\s+", "", stats[index_stats].text_content())
 
         if graded_titles[index].text_content() != "Roll Call Attendance" and gts != '0':
-            dic[graded_titles[index].text_content()] = [gas, gts, each_stat]
-            index_stats += 1
-            print("Title: ", graded_titles[index].text_content())
-            print("actual scores:", gas)
-            print("total scores:", gts)
-            print("stats:", each_stat)
+            dic[graded_titles[index].text_content()] = [gas,gts, each_stat]
+            index_stats +=1
+            print("Title: ", graded_titles[index].text_content(), "actual scores:", gas, "total scores:", gts, "stats:", each_stat)
+
 
     for index in range(len(not_graded_titles)):
         ngts = re.sub(r"\s+", "", not_graded_total_scores[index].text_content())
         dic[not_graded_titles[index].text_content()] = [0, ngts]
 
-        print("title: ", not_graded_titles[index].text_content())
-        print("actual scores: 0")
-        print("total scores:", ngts)
-
-    """
-    ##### Do we still need this part? #####
-    ##### Writing files #####
-    # for i in titles:
-    #     # print(i.text_content())
-    #     i = i.text_content()
-    # with open('./output.txt', 'w') as f:
-    #     for i in titles:
-    #         f.write(i.text_content() + "\n")
-    """
+        print("title: ", not_graded_titles[index].text_content(), "actual scores: 0","total scores:", ngts )
 
     page.wait_for_timeout(10000)
 
