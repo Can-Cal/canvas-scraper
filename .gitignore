@@ -168,3 +168,5 @@ woopty.ics
 token.json
 events.json
 output.txt
+current_graded_scores.csv
+not_grade_scores.csv
