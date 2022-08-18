@@ -16,9 +16,9 @@ def welcome():
 
 def run(playwright):
     browser = playwright.chromium.launch(headless=False, channel='chrome')
+    user_email = input('Please input your Canvas account email:')
+    password = getpass.getpass('Please input your Canvas password:')
     page = browser.new_page()
-    user_email = 'guojiarui@gmail.com'  # input('Please input your Canvas account email:')
-    password = '699622@Gr'  # getpass.getpass('Please input your Canvas password:')
     page.goto("https://canvas.instructure.com/calendar")
     page.fill('input#pseudonym_session_unique_id.ic-Input.text', user_email)
     page.fill('input#pseudonym_session_password.ic-Input.text', password)
