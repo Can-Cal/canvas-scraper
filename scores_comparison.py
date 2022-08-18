@@ -1,8 +1,7 @@
 import numpy as np # linear algebra
 import pandas as pd # data processing, CSV file I/O (e.g. pd.read_csv)
 import matplotlib.pyplot as plt
-import seaborn as sns
-import re
+import re, os
 
 def scores_compared_with_mean(choice):
     df = pd.read_csv('current_graded_scores.csv')
@@ -33,6 +32,8 @@ def scores_compared_with_mean(choice):
 
     ax.bar_label(rects1, padding=3)
     ax.bar_label(rects2, padding=3)
+    if not os.path.isdir('visualization'):
+        os.mkdir('./visualization')
     plt.savefig(f'./visualization/comparison-{choice}.png')
     plt.show()
 

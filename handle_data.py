@@ -1,9 +1,5 @@
 import csv
 
-import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
-
 def handle_data(dic):
     """
     Takes in a dictionary that contains assignments data and handles data for analysis.
