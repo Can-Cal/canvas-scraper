@@ -9,6 +9,7 @@ import re
 
 assignment_link = ""
 
+
 def welcome():
     print("****************************************")
     print("** @_@ Welcome to Canvas Scraper @_@  **")
@@ -16,17 +17,15 @@ def welcome():
 
 def run(playwright):
     browser = playwright.chromium.launch(headless=False, channel='chrome')
-
-    # context = browser.new_context()
-    user_email = input('Please input your Canvas account email:')
-    password = getpass.getpass('Please input your Canvas password:')
     page = browser.new_page()
+    user_email = 'guojiarui@gmail.com'  # input('Please input your Canvas account email:')
+    password = '699622@Gr'  # getpass.getpass('Please input your Canvas password:')
     page.goto("https://canvas.instructure.com/calendar")
-
     page.fill('input#pseudonym_session_unique_id.ic-Input.text', user_email)
     page.fill('input#pseudonym_session_password.ic-Input.text', password)
     page.click('button[class="Button Button--login"]')
 
+    page.goto("https://canvas.instructure.com/calendar")
     page.click('button[class="dialog_opener Button Button--link"]')
     page.wait_for_timeout(2000)
 
@@ -36,22 +35,25 @@ def run(playwright):
     # response = requests.get(assignment_text)
     # create_json.create_json(response.content)
 
-    #Dictionary: key: title, value: score
-    dic={}
-
+    # Dictionary: key: title, value: score
+    dic = {}
 
     page.goto("https://canvas.instructure.com/courses/4916427/grades")
-    #with page.expect_navigation():
-    page.wait_for_timeout(15000)
-    graded_titles = page.query_selector_all("//tr[@class='student_assignment assignment_graded editable']/th[@class='title']/a")
+    # with page.expect_navigation():
+    page.wait_for_timeout(10000)
+    graded_titles = page.query_selector_all(
+        "//tr[@class='student_assignment assignment_graded editable']/th[@class='title']/a")
 
-    graded_actual_scores = page.query_selector_all("//tr[@class='student_assignment assignment_graded editable']//span[@class='original_score']")
-    graded_total_scores = page.query_selector_all("//tr[@class='student_assignment assignment_graded editable']//td[@class='possible points_possible']")
+    graded_actual_scores = page.query_selector_all(
+        "//tr[@class='student_assignment assignment_graded editable']//span[@class='original_score']")
+    graded_total_scores = page.query_selector_all(
+        "//tr[@class='student_assignment assignment_graded editable']//td[@class='possible points_possible']")
 
     not_graded_titles = page.query_selector_all("//tr[@class='student_assignment editable']/th[@class='title']/a")
-    not_graded_total_scores = page.query_selector_all("//tr[@class='student_assignment editable']//td[@class='possible points_possible']")
+    not_graded_total_scores = page.query_selector_all(
+        "//tr[@class='student_assignment editable']//td[@class='possible points_possible']")
 
-    #Statistics for score data
+    # Statistics for score data
     stats = page.query_selector_all("//tr[@class='comments grade_details assignment_graded']//tbody")
 
     index_stats = 0
@@ -61,8 +63,8 @@ def run(playwright):
         each_stat = re.sub(r"\s+", "", stats[index_stats].text_content())
 
         if graded_titles[index].text_content() != "Roll Call Attendance" and gts != '0':
-            dic[graded_titles[index].text_content()] = [gas,gts, each_stat]
-            index_stats +=1
+            dic[graded_titles[index].text_content()] = [gas, gts, each_stat]
+            index_stats += 1
             print("Title: ", graded_titles[index].text_content())
             print("actual scores:", gas)
             print("total scores:", gts)
@@ -106,6 +108,7 @@ def run(playwright):
     """
 
     handle_data(dic)
+
 
 if __name__ == '__main__':
     welcome()
