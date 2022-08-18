@@ -2,10 +2,8 @@ from playwright.sync_api import sync_playwright
 
 import create_json
 import requests
-import api
 from handle_data import handle_data
 
-import getpass
 import re
 
 assignment_link = ""
@@ -41,7 +39,7 @@ def run(playwright):
 
     page.goto("https://canvas.instructure.com/courses/4916427/grades")
     # with page.expect_navigation():
-    page.wait_for_timeout(10000)
+    page.wait_for_timeout(5000)
     graded_titles = page.query_selector_all(
         "//tr[@class='student_assignment assignment_graded editable']/th[@class='title']/a")
 
@@ -75,7 +73,7 @@ def run(playwright):
 
         print("title: ", not_graded_titles[index].text_content(), "actual scores: 0","total scores:", ngts )
 
-    page.wait_for_timeout(10000)
+    page.wait_for_timeout(5000)
 
     page.close()
     browser.close()

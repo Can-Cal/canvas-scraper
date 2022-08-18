@@ -7,7 +7,6 @@ import requests
 import learning_curve
 import scores_comparison
 
-
 def can_cal():
     with sync_playwright() as playwright:
         scraper.welcome()
@@ -15,6 +14,7 @@ def can_cal():
         response = requests.get(scraper.assignment_link)
         create_json.create_json(response.content.decode('utf-8'))
         api.main()
+
 
         user_choice = None
         graph_choice = None
@@ -78,6 +78,7 @@ def can_cal():
 
         elif visualize_data == 'n':
             print("Thank you for using our application!")
+
 
 if __name__ == '__main__':
     can_cal()
