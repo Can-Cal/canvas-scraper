@@ -40,16 +40,7 @@ def test_export_csv():
     os.path.exists('not_grade_scores.csv')
 
 
-#scraper.py
-def test_run():
-    pass
-
-
 #create_json.py
 def test_create_json():
-    pass
+    os.path.exists('events.json')
 
-
-#api.py
-def test_main():
-    pass
