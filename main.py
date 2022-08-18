@@ -8,6 +8,7 @@ import requests
 
 def can_cal():
     with sync_playwright() as playwright:
+        scraper.welcome()
         scraper.run(playwright)
         response = requests.get(scraper.assignment_link)
         create_json.create_json(response.content.decode('utf-8'))
