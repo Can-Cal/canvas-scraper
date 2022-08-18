@@ -25,6 +25,7 @@ def can_cal():
                 print("""
                 Would you like to see Learning Curve Graphs or Mean comparison graphs?
                 ****              Enter 'Learning Curve' or 'Mean'                ****
+                ****              Enter 'quit' if you wish to exit                ****
                 """)
                 graph_choice = input("> ")
                 if graph_choice == 'Mean':
