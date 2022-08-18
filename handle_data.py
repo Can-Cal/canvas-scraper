@@ -54,7 +54,7 @@ def export_csv(data, file_name):
     :return: None
     """
 
-    header = ['assignemnt_title', 'graded_score', 'total_score', 'assignment_mean',
+    header = ['assignment_title', 'graded_score', 'total_score', 'assignment_mean',
               'assignment_median', 'assignment_high', 'assingment_upperquartile', 'assignment_low', 'assignment_lowerquartile']
 
     with open(f'{file_name}.csv', 'w', encoding='UTF8', newline='') as f:
