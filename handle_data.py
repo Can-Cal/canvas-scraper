@@ -28,6 +28,7 @@ def handle_data(dic):
     export_csv(data, 'current_graded_scores')
     export_csv(predicted_data, 'not_grade_scores')
 
+
 def split_digits(words):
     """
     This method splits the strings(Mean, Median...) and statics data
